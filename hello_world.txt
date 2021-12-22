@@ -1,0 +1,4 @@
+Hello everyone ^_^
+This is my first github repo.
+I am exploring The Odin Project.
+Lets explore whats new...
